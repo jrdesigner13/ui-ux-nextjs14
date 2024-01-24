@@ -1,3 +1,13 @@
+# 2024 - Next 14 - ui/ux website
+#### This is the repository with the source code developed from a web/app using Next.js 14 with : 
+#### ReactJS
+#### Tailwind CSS
+#### Typescript
+#### Deployment with Vercel
+
+[`Preview`](https://ui-ux-nextjs14.vercel.app)
+<img width="1323" alt="Screenshot 2024-01-24 at 19 29 45" src="https://github.com/jrdesigner13/ui-ux-nextjs14/assets/38070740/b6d5e890-0c21-421b-8852-cf9cbc7eb589">
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
